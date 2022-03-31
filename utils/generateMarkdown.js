@@ -17,4 +17,5 @@ function generateMarkdown(data) {
 `;
 }
 
+// making it available for the index
 module.exports = generateMarkdown;
