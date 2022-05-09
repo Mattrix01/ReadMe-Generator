@@ -37,7 +37,7 @@ const questions = [
   {
     type: "input",
     name: "test",
-    message: "please provide details on hwo to test?",
+    message: "please provide details on how to test?",
     default: "npm test",
   },
   {
