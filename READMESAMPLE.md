@@ -1,8 +1,8 @@
-# bacon
+# project title
 
 # Description
 
-horsing around
+A mock up of how read me generator works
 
 ## Installation
 
@@ -10,16 +10,12 @@ npm install
 
 ## usage
 
-throw it out window
+test
 
 ## Test
 
-npm testy
+npm test
 
 ## Questions
 
-If you have any questions you can contact me via github toilert or email on toilert
-
-## License
-
-This project is licenced under GNU GLPv3
+If you have any questions you can contact me via github Mattrix01 or email on emjay.knight@gmail.com
