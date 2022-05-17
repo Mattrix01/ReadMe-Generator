@@ -36,8 +36,6 @@ Open terminal
 
 Clone the repo
 
-Enter cd Develop in terminal
-
 Download Inquirer package by entering npm install inquirer in terminal
 
 Enter node index.js in terminal
